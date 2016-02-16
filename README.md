@@ -1,2 +1,4 @@
 # SimpleWeb
-HTML test
+For leethost.io starters.
+
+Free to use
