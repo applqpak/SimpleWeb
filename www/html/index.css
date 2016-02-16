@@ -32,7 +32,7 @@ body > #container { height: auto; min-height: 100%; }
  z-index: 10;
  height: 3em;
  margin-top: -3em;
- background-color: #000;
+ background-color: #333;
  color: white;
 }
 
