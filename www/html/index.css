@@ -37,3 +37,6 @@ body > #container { height: auto; min-height: 100%; }
 }
 
 #content { padding-bottom: 3em; }
+
+.bkg {  background-color: #159957;
+  background-image: linear-gradient(120deg, #155799, #159957); }
