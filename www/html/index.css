@@ -38,5 +38,7 @@ body > #container { height: auto; min-height: 100%; }
 
 #content { padding-bottom: 3em; }
 
-.bkg {  background-color: #159957;
-  background-image: linear-gradient(120deg, #155799, #159957); }
+.bkg {  background: #00c6ff; /* fallback for old browsers */
+background: -webkit-linear-gradient(to left, #00c6ff , #0072ff);
+background: linear-gradient(to left, #00c6ff , #0072ff); 
+}
