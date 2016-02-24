@@ -25,6 +25,8 @@ li a:hover {
     background-color: #111;
 }
 
+html, body, #container { height: 100%; }
+body > #container { height: auto; min-height: 100%; }
 
 
 #footer {
